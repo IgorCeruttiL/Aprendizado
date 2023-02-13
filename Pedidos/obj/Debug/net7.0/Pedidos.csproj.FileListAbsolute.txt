@@ -1,0 +1,15 @@
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\obj\Debug\net7.0\Pedidos.csproj.AssemblyReference.cache
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\obj\Debug\net7.0\Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\obj\Debug\net7.0\Pedidos.AssemblyInfoInputs.cache
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\obj\Debug\net7.0\Pedidos.AssemblyInfo.cs
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\obj\Debug\net7.0\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\bin\Debug\net7.0\Pedidos.exe
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\bin\Debug\net7.0\Pedidos.deps.json
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\bin\Debug\net7.0\Pedidos.runtimeconfig.json
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\bin\Debug\net7.0\Pedidos.dll
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\bin\Debug\net7.0\Pedidos.pdb
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\obj\Debug\net7.0\Pedidos.dll
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\obj\Debug\net7.0\refint\Pedidos.dll
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\obj\Debug\net7.0\Pedidos.pdb
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\obj\Debug\net7.0\Pedidos.genruntimeconfig.cache
+C:\Users\igor\Desktop\Aulas\Pedidos\Pedidos\obj\Debug\net7.0\ref\Pedidos.dll
